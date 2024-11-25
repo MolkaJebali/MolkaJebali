@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Molka Jebali !
 
-<!--
-**MolkaJebali/MolkaJebali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a final-year Business Intelligence student at IHEC Carthage, passionate about bridging the gap between IT and business.  
+With a strong foundation in programming (Java, C#, PHP, SQL) and data visualization, I specialize in creating impactful dashboards and web applications.  
+I thrive on solving complex problems through technology and am always eager to learn and collaborate on innovative projects.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- **Programming:** Java, C#, PHP, JavaScript, SQL  
+- **Tools:** MySQL, Superset, PrestaShop, Bootstrap  
+- **Interests:** Database management, data analysis, web development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals
+Actively seeking internship opportunities to apply my technical skills and contribute to impactful projects. Let’s connect and build something amazing!
