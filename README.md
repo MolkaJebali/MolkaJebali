@@ -1,13 +1,34 @@
-# 👋 Hi, I'm Molka Jebali !
+# 👋 Hi, I'm Molka Jebali
 
-I’m a final-year Business Intelligence student at IHEC Carthage, passionate about bridging the gap between IT and business.  
-With a strong foundation in programming (Java, C#, PHP, SQL) and data visualization, I specialize in creating impactful dashboards and web applications.  
-I thrive on solving complex problems through technology and am always eager to learn and collaborate on innovative projects.
+## 🎓 About Me  
+I am a final-year Business Intelligence student at **IHEC Carthage**, passionate about leveraging technology to solve complex business challenges. My expertise lies in **database management**, **data analysis**, and **software development**, with a strong focus on creating impactful dashboards, visualizations, and web applications.
 
-## 💻 Skills
-- **Programming:** Java, C#, PHP, JavaScript, SQL  
-- **Tools:** MySQL, Superset, PrestaShop, Bootstrap  
-- **Interests:** Database management, data analysis, web development  
+## 💻 Technical Skills  
+- **Web Development**: HTML, CSS, JavaScript, Angular, Bootstrap  
+- **Programming**: Java (OOP), C, C#, Python, Spring Boot  
+- **Data Analysis**: SQL, Excel, Power BI, Stata  
+- **Mobile Development**: Flutter, Dart  
+- **Machine Learning**: Python  
 
-## 🚀 Goals
-Actively seeking internship opportunities to apply my technical skills and contribute to impactful projects. Let’s connect and build something amazing!
+## 📂 Featured Projects  
+- **Hotel Management System**: A desktop application in C# for managing room bookings, customer information, and payments with streamlined CRUD functionality.  
+- **Dynamic Web Application**: A full-stack project using HTML, CSS, JavaScript, PHP, and MySQL, featuring user and admin panels for bookings and profile management.  
+- **E-Commerce Website**: Designed using PrestaShop, including category configuration, inventory management, and a responsive user interface.  
+- **Tunisia Map Visualization**: An interactive web project built with HTML, CSS, and JavaScript, highlighting regions with responsive hover effects.  
+
+## 🌍 Languages  
+- Arabic: Native or bilingual proficiency  
+- English: Native or bilingual proficiency  
+- French: Native or bilingual proficiency  
+
+## 🚀 What I’m Looking For  
+I am actively seeking opportunities to contribute to impactful projects, particularly in **Business Intelligence**, **software development**, and **data visualization**. Let’s connect and build something amazing!
+
+## 📫 Get in Touch  
+- **Email**: molka.jbeli25@gmail.com  
+- **LinkedIn**:www.linkedin.com/in/jebali-molka-882337169
+  
+- **Phone**: +216 26 562 760  
+
+---
+✨ *Let’s collaborate and create something exceptional!* ✨
