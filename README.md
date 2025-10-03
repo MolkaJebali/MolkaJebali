@@ -4,8 +4,8 @@
 I am a final-year Business Intelligence student at **IHEC Carthage**, passionate about leveraging technology to solve complex business challenges. My expertise lies in **database management**, **data analysis**, and **software development**, with a strong focus on creating impactful dashboards, visualizations, and web applications.
 
 ## 💻 Technical Skills  
-- **Web Development**: HTML, CSS, JavaScript, Angular, Bootstrap  
-- **Programming**: Java (OOP), C, C#, Python, Spring Boot  
+  - **Web Development**: HTML, CSS, JavaScript, Angular, PHP  
+- **Programming**: Java (OOP), C, C#, Python  
 - **Data Analysis**: SQL, Excel, Power BI, Stata  
 - **Mobile Development**: Flutter, Dart  
 - **Machine Learning**: Python  
