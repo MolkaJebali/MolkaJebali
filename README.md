@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Molka Jebali
 
 ## 🎓 About Me  
-I am a **Business Intelligence graduate** from **IHEC Carthage**, passionate about transforming data into actionable insights through technology.  
-My expertise spans **data warehousing**, **business intelligence**, **software development**, and **machine learning**, with a strong focus on building impactful dashboards and intelligent web applications.
+I am a **Business Intelligence graduate** from **IHEC Carthage**, currently pursuing my **Engineering studies at ESPRIT**.  
+Passionate about transforming data into actionable insights through technology, I specialize in **data warehousing**, **business intelligence**, **software development**, and **machine learning**, with a strong focus on building impactful dashboards and intelligent web applications.
 
 ## 💻 Technical Skills  
 - **Web Development**: HTML, CSS, JavaScript, Angular, PHP, Spring Boot  
