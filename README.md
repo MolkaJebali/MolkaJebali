@@ -1,43 +1,44 @@
 # 👋 Hi, I'm Molka Jebali
 
 ## 🎓 About Me  
-I am a final-year **Business Intelligence** student at **IHEC Carthage**, passionate about combining **data analytics**, **software development**, and **AI** to drive smarter decision-making.  
-My skills span **ETL processes**, **Power BI dashboards**, and **web app development**, with a focus on transforming data into actionable insights.
+I am a **Business Intelligence graduate** from **IHEC Carthage**, passionate about transforming data into actionable insights through technology.  
+My expertise spans **data warehousing**, **business intelligence**, **software development**, and **machine learning**, with a strong focus on building impactful dashboards and intelligent web applications.
 
 ## 💻 Technical Skills  
-- **Business Intelligence & Data**: Power BI, SQL, Excel, Stata, ETL (SSIS)  
+- **Web Development**: HTML, CSS, JavaScript, Angular, PHP, Spring Boot  
 - **Programming**: Java (OOP), C, C#, Python  
-- **Web Development**: HTML, CSS, JavaScript, Angular, PHP  
+- **Data & BI Tools**: SQL, Excel, Power BI, SSIS (ETL), Stata  
 - **Mobile Development**: Flutter, Dart  
-- **Machine Learning & AI**: Python (XGBoost, Scikit-learn, Pandas)
+- **Machine Learning & AI**: Python (Scikit-learn, Pandas, NumPy)
 
 ## 📂 Featured Projects  
-- **Final-Year Project – Staffing Management System**  
-  Developed with my teammate, this project integrates **ETL**, **Business Intelligence**, and **AI**.  
-  It includes a **Power BI dashboard** for staffing analysis, an **Angular–Spring Boot web application** for secure access, and an **AI assistant** for intelligent task classification and workload suggestions.  
+- **Final Year Project – Biware Consulting**  
+  Designed and implemented a **Data Warehouse** (star schema using SSIS/Visual Studio) and developed **Power BI dashboards** to optimize staffing management.  
+  Built a **full-stack web application** for managers and collaborators (**Angular & Spring Boot**) with planning, notifications, and export features.  
+  Integrated a **machine learning model** for effort prediction and an **AI chatbot** for intelligent recommendations.  
 
-- **Hotel Management System**  
-  A desktop application in C# for managing room bookings, customer data, and payments, with streamlined CRUD functionality.  
+- **Banking Dashboard with Power BI**  
+  Created an interactive financial dashboard for performance tracking and risk analysis, simulating real-world banking use cases.  
 
-- **Dynamic Web Application**  
-  A full-stack project using HTML, CSS, JavaScript, PHP, and MySQL, featuring user and admin panels for bookings and profile management.  
+- **E-Commerce Web Application**  
+  Developed a full-stack solution using HTML, CSS, JavaScript, PHP, and MySQL, featuring user authentication, product management, and responsive design.  
 
-- **Tunisia Map Visualization**  
-  An interactive web project built with HTML, CSS, and JavaScript, highlighting Tunisian regions with responsive hover effects.  
+- **Flutter Projects: Todo List & Portfolio**  
+  Built a task management app with CRUD operations and a personal portfolio app showcasing skills, projects, and experiences.  
 
 ## 🌍 Languages  
 - **Arabic**: Native or bilingual proficiency  
-- **English**: Native or bilingual proficiency  
-- **French**: Native or bilingual proficiency  
+- **English**: Full professional proficiency  
+- **French**: Full professional proficiency  
 
 ## 🚀 What I’m Looking For  
-I’m looking for opportunities in **Business Intelligence**, **Data Analysis**, and **Full-Stack Development**, where I can combine data-driven insights with technical creativity to deliver impactful solutions.
+I’m eager to contribute to **data-driven projects** that combine **Business Intelligence**, **software development**, and **AI**, while continuing to grow in an innovative environment.
 
 ## 📫 Get in Touch  
 - **Email**: molka.jbeli25@gmail.com  
-- **LinkedIn**: [www.linkedin.com/in/jebali-molka-882337169](https://www.linkedin.com/in/jebali-molka-882337169)  
+- **LinkedIn**: [linkedin.com/in/jebali-molka-882337169](https://linkedin.com/in/jebali-molka-882337169)  
 - **Phone**: +216 26 562 760  
 
 ---
 
-✨ *Let’s collaborate and create something exceptional!* ✨
+✨ *Let’s collaborate to turn data into impact!* ✨
