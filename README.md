@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Molka Jebali
 
-**Data Analytics & Computer Science engineering student @ ESPRIT** · Master's in Big Data Analytics & E-Commerce @ IHEC Carthage · Business Intelligence graduate (*Très Bien*)
+### Data Analytics & Computer Science Engineering Student
 
-I turn data into decisions: from data warehouses and dashboards to machine learning models and web applications deployed in production.
+I am a second-year engineering student at **ESPRIT** and a Master's student in Big Data Analytics & E-Commerce at **IHEC Carthage**, with a Bachelor's degree in Business Intelligence (with distinction). I turn data into decisions, from data warehouses and dashboards to machine learning models and web applications deployed in production.
 
 🔎 **Open to a PFE (end-of-studies) internship starting February 2027** in Data Analytics, Business Intelligence or Data Engineering.
 
@@ -75,7 +75,7 @@ A multilingual health assistant designed to reduce LLM hallucinations.
 ## 🎓 Education
 - **ESPRIT**: Engineering Cycle, Data Analytics & Computer Science (2025 – present)
 - **IHEC Carthage**: Professional Master's in Big Data Analytics & E-Commerce (2025 – present)
-- **IHEC Carthage**: Bachelor's in Business Intelligence, Très Bien (2022 – 2025)
+- **IHEC Carthage**: Bachelor's in Business Intelligence, with distinction (2022 – 2025)
 
 ## 🌍 Languages
 Arabic (native) · French (fluent) · English (fluent)
