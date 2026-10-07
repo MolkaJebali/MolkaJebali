@@ -2,9 +2,9 @@
 
 ### Data Analytics & Computer Science Engineering Student
 
-I am a second-year engineering student at **ESPRIT** and a Master's student in Big Data Analytics & E-Commerce at **IHEC Carthage**, with a Bachelor's degree in Business Intelligence (with distinction). I turn data into decisions, from data warehouses and dashboards to machine learning models and web applications deployed in production.
+I am a second-year engineering student at **ESPRIT** and a **Master's student in Big Data Analytics & E-Commerce** at **IHEC Carthage** (final year), with a Bachelor's degree in Business Intelligence (with distinction). I turn data into decisions, from data warehouses and dashboards to machine learning models and web applications deployed in production.
 
-🔎 **Open to a PFE (end-of-studies) internship starting February 2027** in Data Analytics, Business Intelligence or Data Engineering.
+🔎 **Open to a PFE (Master's end-of-studies) internship starting February 2027** in Data Analytics, Business Intelligence or Data Engineering.
 
 ---
 
